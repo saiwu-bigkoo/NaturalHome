@@ -8,7 +8,7 @@ This is an example of an application built by flutter_kata. The design is based 
 
 ![](https://cdn.dribbble.com/users/1183502/screenshots/3135354/natural-home.jpg?compress=1&resize=800x600)
 
-![](https://cdn.dribbble.com/users/1183502/screenshots/3135354/attachments/663816/natural-home_9_.jpg?compress=1resize=800x600)
+![](https://github.com/saiwu-bigkoo/NaturalHome/blob/master/demo.gif)
 
 
 ## 传送门

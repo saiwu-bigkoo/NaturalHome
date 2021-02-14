@@ -97,7 +97,7 @@ class MinePageState extends BaseDataWidgetState<MinePage, MinePagePresenter>
                           ),
                           child: ClipOval(
                             child:
-                                ImageManager.load(presenter.userInfo?.avatar),
+                            presenter.userInfo == null ?Container():ImageManager.load(presenter.userInfo?.avatar, 95, 95),
                           ),
                         ),
                         Container(
